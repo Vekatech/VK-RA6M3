@@ -213,6 +213,11 @@
 			<locationURI>PARENT-2-PROJECT_LOC/machine_adc.c</locationURI>
 		</link>
 		<link>
+			<name>ports/renesas-ra/machine_cam.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/machine_cam.c</locationURI>
+		</link>
+		<link>
 			<name>ports/renesas-ra/machine_dac.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/machine_dac.c</locationURI>
@@ -221,6 +226,11 @@
 			<name>ports/renesas-ra/machine_i2c.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/machine_i2c.c</locationURI>
+		</link>
+		<link>
+			<name>ports/renesas-ra/machine_lcd.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/machine_lcd.c</locationURI>
 		</link>
 		<link>
 			<name>ports/renesas-ra/machine_pin.c</name>
@@ -453,6 +463,11 @@
 			<locationURI>PARENT-2-PROJECT_LOC/uart.h</locationURI>
 		</link>
 		<link>
+			<name>ports/renesas-ra/usbd.c</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/usbd.c</locationURI>
+		</link>
+		<link>
 			<name>ports/renesas-ra/usrsw.c</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/usrsw.c</locationURI>
@@ -498,6 +513,11 @@
 			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_flash_lp_cfg.h</locationURI>
 		</link>
 		<link>
+			<name>ra_cfg/fsp_cfg/r_glcdc_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_glcdc_cfg.h</locationURI>
+		</link>
+		<link>
 			<name>ra_cfg/fsp_cfg/r_icu_cfg.h</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_icu_cfg.h</locationURI>
@@ -513,14 +533,29 @@
 			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_ioport_cfg.h</locationURI>
 		</link>
 		<link>
+			<name>ra_cfg/fsp_cfg/r_jpeg_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_jpeg_cfg.h</locationURI>
+		</link>
+		<link>
 			<name>ra_cfg/fsp_cfg/r_lpm_cfg.h</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_lpm_cfg.h</locationURI>
 		</link>
 		<link>
+			<name>ra_cfg/fsp_cfg/r_pdc_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_pdc_cfg.h</locationURI>
+		</link>
+		<link>
 			<name>ra_cfg/fsp_cfg/r_rtc_cfg.h</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_rtc_cfg.h</locationURI>
+		</link>
+		<link>
+			<name>ra_cfg/fsp_cfg/r_sci_i2c_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_sci_i2c_cfg.h</locationURI>
 		</link>
 		<link>
 			<name>ra_cfg/fsp_cfg/r_sci_uart_cfg.h</name>
@@ -536,6 +571,21 @@
 			<name>ra_cfg/fsp_cfg/r_spi_cfg.h</name>
 			<type>1</type>
 			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_spi_cfg.h</locationURI>
+		</link>
+		<link>
+			<name>ra_cfg/fsp_cfg/r_usb_basic_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_usb_basic_cfg.h</locationURI>
+		</link>
+		<link>
+			<name>ra_cfg/fsp_cfg/r_usb_class_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_usb_class_cfg.h</locationURI>
+		</link>
+		<link>
+			<name>ra_cfg/fsp_cfg/r_usb_pcdc_cfg.h</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/fsp_cfg/r_usb_pcdc_cfg.h</locationURI>
 		</link>
 		<link>
 			<name>ports/renesas-ra/boards/.gitignore</name>
